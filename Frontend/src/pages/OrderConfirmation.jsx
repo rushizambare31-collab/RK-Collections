@@ -27,7 +27,7 @@ export default function OrderConfirmation() {
             Order Confirmed!
           </h1>
           <p className="text-muted animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Thank you for shopping with ABHI & ABHAY COLLECTIONS
+            Thank you for shopping with RK COLLECTIONS
           </p>
         </div>
 

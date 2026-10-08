@@ -20,7 +20,7 @@ export default function Cart() {
           </div>
           <h1 className="font-serif text-2xl text-dark mb-2">Your Cart is Empty</h1>
           <p className="text-sm text-muted mb-6">Looks like you haven't added anything to your cart yet.</p>
-          <Link to="/ethnic-suits" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium hover:bg-maroon transition-colors inline-block">
+          <Link to="/sarees" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium hover:bg-maroon transition-colors inline-block">
             Start Shopping
           </Link>
         </div>
@@ -135,7 +135,7 @@ export default function Cart() {
               >
                 Proceed to Checkout <ArrowRight size={16} />
               </Link>
-              <Link to="/ethnic-suits" className="block text-center text-sm text-muted hover:text-burgundy mt-4 transition-colors">
+              <Link to="/sarees" className="block text-center text-sm text-muted hover:text-burgundy mt-4 transition-colors">
                 Continue Shopping
               </Link>
             </div>

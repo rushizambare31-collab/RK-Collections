@@ -23,7 +23,7 @@ export default function SignIn() {
       <div className="w-full max-w-md mx-auto px-6">
         <div className="text-center mb-8">
           <h1 className="font-serif text-3xl font-bold text-dark mb-2">Welcome Back</h1>
-          <p className="text-sm text-muted">Sign in to your ABHI & ABHAY account</p>
+          <p className="text-sm text-muted">Sign in to your RK COLLECTIONS account</p>
         </div>
         <div className="bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 md:p-8">
           {error && <p className="text-sm text-error bg-error/10 p-3 rounded-lg mb-4">{error}</p>}

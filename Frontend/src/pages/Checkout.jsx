@@ -27,7 +27,7 @@ export default function Checkout() {
       <div className="py-20 text-center container-main">
         <h2 className="font-serif text-2xl text-dark mb-2">Nothing to Checkout</h2>
         <p className="text-muted text-sm mb-6">Your cart is empty. Add some products first.</p>
-        <Link to="/ethnic-suits" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium inline-block">
+        <Link to="/sarees" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium inline-block">
           Browse Products
         </Link>
       </div>

@@ -12,11 +12,11 @@ export default function Footer() {
           {/* Brand */}
           <div className="sm:col-span-2 lg:col-span-1">
             <Link to="/" className="inline-block mb-4">
-              <h3 className="font-serif text-xl font-bold text-gold">ABHI & ABHAY</h3>
+              <h3 className="font-serif text-xl font-bold text-gold">RK</h3>
               <p className="text-[10px] tracking-[0.25em] text-cream/60 uppercase">Collections</p>
             </Link>
             <p className="text-sm text-cream/70 leading-relaxed mb-6 max-w-xs">
-              Premium Maharashtrian-inspired men's fashion. Blending royal heritage with contemporary styling for the modern gentleman.
+              Premium women's fashion collection. Blending Indian heritage with contemporary styling for the modern woman.
             </p>
             {/* Social */}
             <div className="flex items-center gap-3">
@@ -30,14 +30,14 @@ export default function Footer() {
                 <MessageCircle size={16} />
               </a>
               <a
-                href="mailto:abhishek.himeself@gmail.com"
+                href="mailto:rkcollections.info@gmail.com"
                 className="w-9 h-9 rounded-full border border-cream/20 flex items-center justify-center text-cream/60 hover:text-gold hover:border-gold transition-colors"
                 aria-label="Email"
               >
                 <Mail size={16} />
               </a>
               <a
-                href="https://www.instagram.com/_.abhi_000"
+                href="https://www.instagram.com/rk_collections_official"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full border border-cream/20 flex items-center justify-center text-cream/60 hover:text-gold hover:border-gold transition-colors"
@@ -61,8 +61,8 @@ export default function Footer() {
             <ul className="space-y-2.5">
               {[
                 { label: 'Home', path: '/' },
-                { label: 'Ethnic & Suits', path: '/ethnic-suits' },
-                { label: 'Casual & Outerwear', path: '/casual-outerwear' },
+                { label: 'Sarees', path: '/sarees' },
+                { label: 'Dresses', path: '/dresses' },
                 { label: 'Footwear & Accessories', path: '/footwear-accessories' },
                 { label: 'About', path: '/about' },
                 { label: 'Contact', path: '/contact' },
@@ -85,10 +85,10 @@ export default function Footer() {
             <h4 className="text-gold text-xs font-semibold tracking-[0.2em] uppercase mb-5">Shop</h4>
             <ul className="space-y-2.5">
               {[
-                { label: 'Ethnic Wear', path: '/ethnic-suits' },
-                { label: 'Suits & Blazers', path: '/ethnic-suits' },
-                { label: 'Casual Wear', path: '/casual-outerwear' },
-                { label: 'Outerwear', path: '/casual-outerwear' },
+                { label: 'Sarees', path: '/sarees' },
+                { label: 'Ethnic Sarees', path: '/sarees' },
+                { label: 'Dresses & Gowns', path: '/dresses' },
+                { label: 'Anarkali & Maxi', path: '/dresses' },
                 { label: 'Footwear', path: '/footwear-accessories' },
                 { label: 'Accessories', path: '/footwear-accessories' },
               ].map((link, i) => (
@@ -128,8 +128,8 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3">
                 <Mail size={15} className="text-gold mt-0.5 flex-shrink-0" />
-                <a href="mailto:abhishek.himeself@gmail.com" className="text-sm text-cream/70 hover:text-gold transition-colors break-all">
-                  abhishek.himeself@gmail.com
+                <a href="mailto:rkcollections.info@gmail.com" className="text-sm text-cream/70 hover:text-gold transition-colors break-all">
+                  rkcollections.info@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -149,10 +149,10 @@ export default function Footer() {
       <div className="border-t border-cream/10">
         <div className="container-main py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-cream/50 text-center sm:text-left">
-            © {currentYear} ABHI & ABHAY COLLECTIONS. All Rights Reserved.
+            © {currentYear} RK COLLECTIONS. All Rights Reserved.
           </p>
           <p className="text-xs text-cream/40">
-            Premium Maharashtrian Men's Fashion
+            Premium Women's Fashion Collection
           </p>
         </div>
       </div>

@@ -51,7 +51,7 @@ export default function CartDrawer() {
             <h3 className="font-serif text-lg text-dark mb-2">Your cart is empty</h3>
             <p className="text-sm text-muted mb-6">Discover our premium collection and add something special.</p>
             <Link
-              to="/ethnic-suits"
+              to="/sarees"
               onClick={() => dispatch({ type: 'CLOSE_CART_DRAWER' })}
               className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium hover:bg-maroon transition-colors"
             >
@@ -167,7 +167,7 @@ export default function CartDrawer() {
                 <ArrowRight size={16} />
               </Link>
               <Link
-                to="/ethnic-suits"
+                to="/sarees"
                 onClick={() => dispatch({ type: 'CLOSE_CART_DRAWER' })}
                 className="block text-center text-sm text-muted hover:text-burgundy transition-colors"
               >

@@ -28,7 +28,7 @@ export default function SearchResults() {
             </div>
             <h3 className="font-serif text-xl text-dark mb-2">No results found</h3>
             <p className="text-sm text-muted mb-6">Try different search terms or browse our collections</p>
-            <Link to="/ethnic-suits" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium inline-block">
+            <Link to="/sarees" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium inline-block">
               Browse Collections
             </Link>
           </div>

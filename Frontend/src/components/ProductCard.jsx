@@ -6,18 +6,9 @@ import { useScrollReveal } from '../hooks/useUtils';
 // Fallback gradient for missing product images
 function ProductImageFallback({ category, className = '' }) {
   const colors = {
-    'kurtas': 'from-burgundy/20 to-gold/10',
-    'kurta-pajama': 'from-burgundy/20 to-gold/10',
-    'nehru-jackets': 'from-maroon/20 to-burgundy/10',
-    'blazers': 'from-brown/20 to-burgundy/10',
-    'suits': 'from-maroon/20 to-brown/10',
-    'shirts': 'from-blue-900/10 to-cream-dark',
-    't-shirts': 'from-gray-200 to-cream',
-    'hoodies': 'from-brown/15 to-cream-dark',
-    'bottom-wear': 'from-gray-300/30 to-cream',
-    'winter-wear': 'from-brown/20 to-cream-dark',
-    'footwear': 'from-amber-900/15 to-cream',
-    'accessories': 'from-gold/15 to-cream-dark',
+    'sarees': 'from-burgundy/20 to-gold/10',
+    'dresses': 'from-maroon/20 to-burgundy/10',
+    'footwear-accessories': 'from-gold/15 to-cream-dark',
   };
 
   const gradient = colors[category] || 'from-cream-dark to-cream';

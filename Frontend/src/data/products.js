@@ -8,13 +8,9 @@ const products = productsData.map((p) => ({
 }));
 
 function getCollection(category) {
-  const ethnicCategories = ['kurtas', 'kurta-pajama', 'nehru-jackets', 'blazers', 'suits'];
-  const casualCategories = ['shirts', 't-shirts', 'hoodies', 'bottom-wear', 'winter-wear'];
-  const accessoryCategories = ['footwear', 'accessories'];
-
-  if (ethnicCategories.includes(category)) return 'ethnic';
-  if (casualCategories.includes(category)) return 'casual';
-  if (accessoryCategories.includes(category)) return 'accessories';
+  if (category === 'sarees') return 'sarees';
+  if (category === 'dresses') return 'dresses';
+  if (category === 'footwear-accessories') return 'footwear-accessories';
   return 'other';
 }
 
@@ -213,22 +209,13 @@ export function getPriceRange(productList) {
 
 // Category display names
 export const categoryDisplayNames = {
-  'shirts': 'Shirts',
-  't-shirts': 'T-Shirts',
-  'hoodies': 'Hoodies & Sweatshirts',
-  'bottom-wear': 'Bottom Wear',
-  'kurtas': 'Royal Kurtas',
-  'kurta-pajama': 'Kurta-Pajama Sets',
-  'nehru-jackets': 'Nehru Jackets',
-  'blazers': 'Blazers & Waistcoats',
-  'suits': 'Suits',
-  'winter-wear': 'Winter Wear',
-  'footwear': 'Footwear',
-  'accessories': 'Accessories',
+  'sarees': 'Sarees',
+  'dresses': 'Dresses',
+  'footwear-accessories': 'Footwear & Accessories',
 };
 
 export const collectionDisplayNames = {
-  ethnic: 'Ethnic & Suits',
-  casual: 'Casual & Outerwear',
-  accessories: 'Footwear & Accessories',
+  sarees: 'Sarees',
+  dresses: 'Dresses',
+  'footwear-accessories': 'Footwear & Accessories',
 };

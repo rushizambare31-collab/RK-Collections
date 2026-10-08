@@ -30,7 +30,7 @@ export default function Home() {
         {/* HERO BACKGROUND IMAGE */}
         <img
           src="/hero image.png"
-          alt="Men's Fashion"
+          alt="Women's Fashion"
           className="absolute inset-0 w-full h-full object-cover"
         />
 
@@ -63,7 +63,7 @@ export default function Home() {
               <Gem size={14} className="text-gold" />
 
               <span className="text-gold text-[11px] tracking-[0.3em] uppercase font-sans">
-                Premium Indian Menswear
+                Premium Indian Women's Wear
               </span>
 
               <Gem size={14} className="text-gold" />
@@ -76,9 +76,9 @@ export default function Home() {
               className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-[1.1] mb-6 animate-fade-in"
               style={{ animationDelay: "0.15s" }}
             >
-              Where Heritage Meets{" "}
+              Where Elegance Meets{" "}
               <span className="text-gold italic">
-                Modern Royalty
+                Modern Grace
               </span>
             </h1>
 
@@ -87,8 +87,8 @@ export default function Home() {
               className="text-base md:text-lg text-white/75 max-w-xl mx-auto mb-10 leading-relaxed animate-fade-in"
               style={{ animationDelay: "0.3s" }}
             >
-              Timeless Maharashtrian-inspired menswear crafted for weddings,
-              celebrations and every distinguished occasion.
+              Timeless Indian women's fashion crafted for weddings,
+              celebrations and every elegant occasion.
             </p>
 
             {/* BUTTONS */}
@@ -97,10 +97,10 @@ export default function Home() {
               style={{ animationDelay: "0.45s" }}
             >
               <Link
-                to="/ethnic-suits"
+                to="/sarees"
                 className="group flex items-center gap-2 px-8 py-3.5 bg-gold text-dark font-semibold rounded-lg hover:bg-gold-light transition-all duration-300 text-sm tracking-wide"
               >
-                EXPLORE ETHNIC WEAR
+                EXPLORE SAREES
 
                 <ArrowRight
                   size={16}
@@ -109,7 +109,7 @@ export default function Home() {
               </Link>
 
               <Link
-                to="/casual-outerwear"
+                to="/dresses"
                 className="flex items-center gap-2 px-8 py-3.5 border-2 border-white/40 text-white font-medium rounded-lg hover:bg-white/10 hover:border-white/60 transition-all duration-300 text-sm tracking-wide"
               >
                 VIEW ALL COLLECTIONS
@@ -128,11 +128,11 @@ export default function Home() {
                 },
                 {
                   icon: <Shirt size={16} />,
-                  text: "Curated Menswear",
+                  text: "Curated Women's Wear",
                 },
                 {
                   icon: <Sparkles size={16} />,
-                  text: "Modern Royal Styling",
+                  text: "Modern Elegant Styling",
                 },
               ].map((item, i) => (
                 <div
@@ -168,7 +168,7 @@ export default function Home() {
                   {/* Image */}
                   <img
                     src="/using image.png"
-                    alt="Abhi & Abhay Collections"
+                    alt="RK Collections"
                     className="w-full h-full object-cover object-center transition-transform duration-700 hover:scale-105"
                   />
 
@@ -189,17 +189,17 @@ export default function Home() {
                 </div>
                 <h2 className="font-serif text-3xl md:text-4xl font-bold text-dark mb-6 leading-tight">
                   THE ART OF<br />
-                  <span className="text-burgundy">MAHARASHTRIAN MENSWEAR</span>
+                  <span className="text-burgundy">INDIAN WOMEN'S FASHION</span>
                 </h2>
                 <div className="space-y-4 text-muted leading-relaxed text-sm md:text-base">
                   <p>
-                    Inspired by the grandeur of Paithani-woven fabrics and the stately elegance of Peshwa-era architecture, ABHI & ABHAY COLLECTIONS brings you menswear that bridges centuries of tradition with contemporary tailoring.
+                    Inspired by the grandeur of Paithani-woven fabrics and the timeless elegance of Indian textile heritage, RK COLLECTIONS brings you women's fashion that bridges centuries of tradition with contemporary styling.
                   </p>
                   <p>
-                    Every piece in our collection tells a story — from the intricate patterns reminiscent of Wada courtyards to the regal silhouettes inspired by Maharashtrian royalty. We blend time-honored craftsmanship with modern fits to create clothing worthy of life's most distinguished moments.
+                    Every piece in our collection tells a story — from the intricate patterns of Banarasi silk to the regal silhouettes inspired by Indian royalty. We blend time-honored craftsmanship with modern designs to create clothing worthy of life's most elegant moments.
                   </p>
                   <p>
-                    Our artisans draw from a rich legacy of textile heritage, ensuring that each garment carries the essence of authentic Indian menswear while meeting the standards of contemporary fashion.
+                    Our artisans draw from a rich legacy of textile heritage, ensuring that each garment carries the essence of authentic Indian women's fashion while meeting the standards of contemporary style.
                   </p>
                 </div>
                 <div className="mt-8 flex items-center gap-3">
@@ -224,7 +224,7 @@ export default function Home() {
                 Our Collections
               </h2>
               <p className="text-muted max-w-lg mx-auto text-sm md:text-base">
-                Explore curated collections designed for the modern Indian gentleman
+                Explore curated collections designed for the modern Indian woman
               </p>
             </div>
           </RevealSection>
@@ -232,22 +232,22 @@ export default function Home() {
           <div className="grid md:grid-cols-3 gap-6 md:gap-8">
             {[
               {
-                title: 'Ethnic & Suits',
-                desc: 'Royal kurtas, sherwanis, bandhgalas, blazers, and wedding suits for distinguished occasions.',
-                path: '/ethnic-suits',
+                title: 'Sarees',
+                desc: 'Exquisite Paithani, Banarasi, Kanjeevaram, and designer sarees for weddings and festive occasions.',
+                path: '/sarees',
                 image: '/Ethic.jpg',
                 icon: <Crown size={28} />,
               },
               {
-                title: 'Casual & Outerwear',
-                desc: 'Premium shirts, t-shirts, hoodies, trousers, and jackets for everyday sophistication.',
-                path: '/casual-outerwear',
+                title: 'Dresses',
+                desc: 'Premium Anarkali dresses, gowns, maxi dresses, and evening wear for every occasion.',
+                path: '/dresses',
                 image: '/casual.webp',
                 icon: <Shirt size={28} />,
               },
               {
                 title: 'Footwear & Accessories',
-                desc: 'Traditional mojari, kolhapuri chappals, watches, belts, wallets, and refined accessories.',
+                desc: 'Traditional juttis, kolhapuri sandals, elegant heels, clutches, jewelry, and refined accessories.',
                 path: '/footwear-accessories',
                 image: '/accesoriess iamge.png',
                 icon: <Gem size={28} />,
@@ -319,10 +319,10 @@ export default function Home() {
                 <h2 className="font-serif text-3xl md:text-4xl font-bold text-dark">
                   Featured Products
                 </h2>
-                <p className="text-muted text-sm mt-2">Handpicked selections for the discerning gentleman</p>
+                <p className="text-muted text-sm mt-2">Handpicked selections for the discerning woman</p>
               </div>
               <Link
-                to="/ethnic-suits"
+                to="/sarees"
                 className="hidden md:flex items-center gap-1.5 text-sm font-medium text-burgundy hover:text-maroon transition-colors"
               >
                 View All <ArrowRight size={14} />
@@ -338,7 +338,7 @@ export default function Home() {
 
           <div className="mt-8 text-center md:hidden">
             <Link
-              to="/ethnic-suits"
+              to="/sarees"
               className="inline-flex items-center gap-1.5 text-sm font-medium text-burgundy hover:text-maroon"
             >
               View All Products <ArrowRight size={14} />
@@ -373,15 +373,15 @@ export default function Home() {
           <RevealSection delay={200}>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-4 md:gap-6 max-w-4xl mx-auto">
               {[
-                { name: 'Sherwanis', icon: '👑' },
-                { name: 'Bandhgalas', icon: '🎭' },
-                { name: 'Kurta-Pajama', icon: '✨' },
-                { name: 'Nehru Jackets', icon: '🏛️' },
-                { name: 'Wedding Suits', icon: '💎' },
+                { name: 'Silk Sarees', icon: '👑' },
+                { name: 'Banarasi', icon: '🎭' },
+                { name: 'Anarkali', icon: '✨' },
+                { name: 'Designer Gowns', icon: '🏛️' },
+                { name: 'Bridal Wear', icon: '💎' },
               ].map((item, i) => (
                 <Link
                   key={i}
-                  to="/ethnic-suits"
+                  to="/sarees"
                   className="group flex flex-col items-center p-6 rounded-xl border border-cream/10 hover:border-gold/30 hover:bg-white/5 transition-all duration-300"
                 >
                   <span className="text-2xl mb-3">{item.icon}</span>
@@ -437,9 +437,9 @@ export default function Home() {
         <div className="container-main">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
             {[
-              { icon: <Award size={28} />, title: 'Authentic Indian Craft', desc: 'Rooted in traditional Maharashtrian textile heritage' },
+              { icon: <Award size={28} />, title: 'Authentic Indian Craft', desc: 'Rooted in traditional Indian textile heritage' },
               { icon: <Gem size={28} />, title: 'Premium Fabrics', desc: 'Carefully sourced materials for lasting quality' },
-              { icon: <Sparkles size={28} />, title: 'Tailored Finishing', desc: 'Precision stitching and attention to detail' },
+              { icon: <Sparkles size={28} />, title: 'Elegant Finishing', desc: 'Precision stitching and attention to detail' },
               { icon: <Heart size={28} />, title: 'Customer-first Service', desc: 'Dedicated support for a seamless experience' },
             ].map((item, i) => (
               <RevealSection key={i} delay={i * 100}>
@@ -467,14 +467,14 @@ export default function Home() {
               <div className="w-10 h-px bg-gold/40" />
             </div>
             <h2 className="font-serif text-3xl md:text-5xl font-bold text-white mb-5 leading-tight">
-              Your Next Royal Look<br />
+              Your Next Elegant Look<br />
               <span className="text-gold italic">Begins Here</span>
             </h2>
             <p className="text-cream/60 max-w-md mx-auto mb-10">
-              Discover the perfect blend of Maharashtrian heritage and contemporary fashion.
+              Discover the perfect blend of Indian heritage and contemporary women's fashion.
             </p>
             <Link
-              to="/ethnic-suits"
+              to="/sarees"
               className="group inline-flex items-center gap-2 px-10 py-4 bg-gold text-dark font-semibold rounded-lg hover:bg-gold-light transition-all duration-300 text-sm tracking-wider"
             >
               EXPLORE COLLECTION

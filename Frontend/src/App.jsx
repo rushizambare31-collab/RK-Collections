@@ -7,8 +7,8 @@ import Notification from './components/Notification';
 
 // Lazy load pages
 const Home = lazy(() => import('./pages/Home'));
-const EthnicSuits = lazy(() => import('./pages/EthnicSuits'));
-const CasualOuterwear = lazy(() => import('./pages/CasualOuterwear'));
+const Sarees = lazy(() => import('./pages/EthnicSuits'));
+const Dresses = lazy(() => import('./pages/CasualOuterwear'));
 const FootwearAccessories = lazy(() => import('./pages/FootwearAccessories'));
 const ProductDetail = lazy(() => import('./pages/ProductDetail'));
 const Wishlist = lazy(() => import('./pages/Wishlist'));
@@ -50,8 +50,8 @@ export default function App() {
         <Suspense fallback={<PageLoader />}>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/ethnic-suits" element={<EthnicSuits />} />
-            <Route path="/casual-outerwear" element={<CasualOuterwear />} />
+            <Route path="/sarees" element={<Sarees />} />
+            <Route path="/dresses" element={<Dresses />} />
             <Route path="/footwear-accessories" element={<FootwearAccessories />} />
             <Route path="/product/:id" element={<ProductDetail />} />
             <Route path="/wishlist" element={<Wishlist />} />

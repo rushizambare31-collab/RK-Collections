@@ -33,7 +33,7 @@ export default function ProductDetail() {
         <div className="text-center">
           <h2 className="font-serif text-2xl text-dark mb-2">Product Not Found</h2>
           <p className="text-muted mb-6">The product you're looking for doesn't exist.</p>
-          <Link to="/ethnic-suits" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium">
+          <Link to="/sarees" className="px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium">
             Browse Products
           </Link>
         </div>
@@ -92,7 +92,7 @@ export default function ProductDetail() {
           <Link to="/" className="hover:text-burgundy transition-colors whitespace-nowrap">Home</Link>
           <ChevronRight size={12} />
           <Link
-            to={`/${product.collection === 'ethnic' ? 'ethnic-suits' : product.collection === 'casual' ? 'casual-outerwear' : 'footwear-accessories'}`}
+            to={`/${product.collection === 'sarees' ? 'sarees' : product.collection === 'dresses' ? 'dresses' : 'footwear-accessories'}`}
             className="hover:text-burgundy transition-colors whitespace-nowrap capitalize"
           >
             {(product.category || '').replace(/-/g, ' ')}

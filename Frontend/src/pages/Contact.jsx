@@ -82,12 +82,12 @@ export default function Contact() {
                 <h3 className="font-serif text-lg font-semibold text-dark mb-1">WhatsApp</h3>
                 <p className="text-sm text-muted">Chat with us instantly</p>
               </a>
-              <a href="mailto:abhishek.himeself@gmail.com" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
+              <a href="mailto:rkcollections.info@gmail.com" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
                 <div className="w-14 h-14 rounded-full bg-gold/10 flex items-center justify-center mx-auto mb-4 group-hover:bg-gold transition-colors">
                   <Mail size={22} className="text-gold group-hover:text-dark transition-colors" />
                 </div>
                 <h3 className="font-serif text-lg font-semibold text-dark mb-1">Email Us</h3>
-                <p className="text-sm text-muted break-all">abhishek.himeself@gmail.com</p>
+                <p className="text-sm text-muted break-all">rkcollections.info@gmail.com</p>
               </a>
             </div>
           </RevealSection>
@@ -132,8 +132,8 @@ export default function Contact() {
                     </div>
                     <div className="flex flex-col">
                       <h4 className="text-sm font-semibold text-dark mb-1">Email</h4>
-                      <a href="mailto:abhishek.himeself@gmail.com" className="text-sm text-muted hover:text-burgundy">abhishek.himeself@gmail.com</a>
-                      <a href="mailto:abhishek.himeself@gmail.com" className="text-sm text-muted hover:text-burgundy">abhaypandit30224@gmail.com</a>
+                      <a href="mailto:rkcollections.info@gmail.com" className="text-sm text-muted hover:text-burgundy">rkcollections.info@gmail.com</a>
+                      <a href="mailto:rkcollections.info@gmail.com" className="text-sm text-muted hover:text-burgundy">rkcollections.support@gmail.com</a>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">

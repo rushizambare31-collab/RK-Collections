@@ -11,8 +11,8 @@ import {
 
 const navLinks = [
   { path: '/', label: 'Home' },
-  { path: '/ethnic-suits', label: 'Ethnic & Suits' },
-  { path: '/casual-outerwear', label: 'Casual & Outerwear' },
+  { path: '/sarees', label: 'Sarees' },
+  { path: '/dresses', label: 'Dresses' },
   { path: '/footwear-accessories', label: 'Footwear & Accessories' },
   { path: '/about', label: 'About' },
   { path: '/contact', label: 'Contact' },
@@ -84,8 +84,8 @@ export default function Header() {
       <div className="bg-burgundy text-white text-center py-2 px-4 text-xs sm:text-sm font-sans tracking-wide">
         <span className="opacity-90">FREE DELIVERY ON ORDERS ABOVE ₹2,000</span>
         <span className="mx-2 opacity-50">|</span>
-        <span className="opacity-90 hidden sm:inline">AUTHENTIC INDIAN MENSWEAR</span>
-        <span className="opacity-90 sm:hidden">AUTHENTIC MENSWEAR</span>
+        <span className="opacity-90 hidden sm:inline">AUTHENTIC INDIAN WOMEN'S WEAR</span>
+        <span className="opacity-90 sm:hidden">AUTHENTIC WOMEN'S WEAR</span>
       </div>
 
       {/* MAIN HEADER */}
@@ -118,7 +118,7 @@ export default function Header() {
           {/* CENTER: Logo */}
           <Link to="/" className="flex flex-col items-center flex-shrink-0 group">
             <span className="font-serif text-lg md:text-2xl font-bold text-burgundy tracking-wider group-hover:text-maroon transition-colors">
-              ABHI & ABHAY
+              RK
             </span>
             <span className="text-[9px] md:text-[11px] tracking-[0.3em] text-muted font-sans uppercase -mt-0.5">
               Collections
@@ -249,7 +249,7 @@ export default function Header() {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Search for kurtas, shirts, suits, accessories..."
+                placeholder="Search for sarees, dresses, footwear, accessories..."
                 className="w-full pl-12 pr-12 py-3.5 bg-cream dark:bg-[#1A1614] border border-border rounded-lg text-dark placeholder-muted focus:outline-none focus:border-burgundy transition-colors"
                 autoFocus
                 id="search-input"
@@ -309,7 +309,7 @@ export default function Header() {
             }`}
           >
             <div className="p-5 border-b border-border flex items-center justify-between">
-              <span className="font-serif text-lg font-bold text-burgundy">ABHI & ABHAY</span>
+              <span className="font-serif text-lg font-bold text-burgundy">RK COLLECTIONS</span>
               <button onClick={() => dispatch({ type: 'CLOSE_MOBILE_MENU' })} className="p-1 text-dark">
                 <X size={22} />
               </button>

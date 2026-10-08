@@ -47,12 +47,12 @@ export default function About() {
           <h1 className="font-serif text-4xl md:text-6xl font-bold text-white mb-4 leading-tight">
             OUR STORY —<br />
             <span className="text-gold italic">
-              The Thread of Maharashtra
+              The Thread of Indian Heritage
             </span>
           </h1>
 
           <p className="text-cream/60 max-w-xl mx-auto text-sm md:text-base">
-            "Tradition, craftsmanship, and an evolved sense of elegance woven into modern menswear."
+            "Tradition, craftsmanship, and an evolved sense of elegance woven into modern women's fashion."
           </p>
 
         </div>
@@ -82,13 +82,13 @@ export default function About() {
                 </h2>
                 <div className="space-y-4 text-muted leading-relaxed text-sm md:text-base">
                   <p>
-                    ABHI & ABHAY COLLECTIONS was born from a deep reverence for Maharashtrian heritage and a passion for exceptional menswear. Our journey began with a simple vision: to bring the grandeur of traditional Indian craftsmanship to the modern gentleman's wardrobe.
+                    RK COLLECTIONS was born from a deep reverence for Indian heritage and a passion for exceptional women's fashion. Our journey began with a simple vision: to bring the grandeur of traditional Indian craftsmanship to the modern woman's wardrobe.
                   </p>
                   <p>
-                    Inspired by the rich legacy of Paithani fabrics, Peshwa-era aesthetics, and the architectural beauty of traditional Wada mansions, we craft each garment to honor centuries of artisanal tradition while embracing contemporary silhouettes and fits.
+                    Inspired by the rich legacy of Paithani fabrics, Banarasi weaves, and the timeless beauty of Indian textile traditions, we craft each garment to honor centuries of artisanal tradition while embracing contemporary silhouettes and styles.
                   </p>
                   <p>
-                    From royal sherwanis to modern casual wear, every piece tells a story of heritage reimagined. We work with skilled artisans who understand the fine balance between traditional techniques and modern expectations, ensuring that each garment is worthy of life's most distinguished moments.
+                    From elegant sarees to modern designer dresses, every piece tells a story of heritage reimagined. We work with skilled artisans who understand the fine balance between traditional techniques and modern expectations, ensuring that each garment is worthy of life's most elegant moments.
                   </p>
                 </div>
               </div>
@@ -110,7 +110,7 @@ export default function About() {
           <div className="grid md:grid-cols-3 gap-6 md:gap-8">
             {[
               { icon: <Award size={28} />, title: 'Authentic Craftsmanship', desc: 'Every garment is crafted using time-honored techniques passed down through generations of skilled artisans. We preserve traditional methods while meeting modern standards of quality.' },
-              { icon: <Shield size={28} />, title: 'Fair & Transparent Pricing', desc: 'We believe premium menswear should be accessible. Our direct-to-customer approach ensures you get exceptional value without compromising on fabric quality or finishing.' },
+              { icon: <Shield size={28} />, title: 'Fair & Transparent Pricing', desc: 'We believe premium women\'s fashion should be accessible. Our direct-to-customer approach ensures you get exceptional value without compromising on fabric quality or finishing.' },
               { icon: <Heart size={28} />, title: 'Personal Customer Service', desc: 'From styling advice to post-purchase care, our dedicated team ensures every interaction reflects the personalized attention our customers deserve.' },
             ].map((item, i) => (
               <RevealSection key={i} delay={i * 150}>
@@ -137,10 +137,10 @@ export default function About() {
 
           <div className="space-y-0">
             {[
-              { title: 'Heritage', desc: 'Drawing from centuries of Maharashtrian textile tradition and Peshwa-era royal aesthetics.', icon: <Crown size={20} /> },
-              { title: 'Craft', desc: 'Partnering with skilled artisans who master traditional weaving, embroidery, and tailoring.', icon: <Gem size={20} /> },
-              { title: 'Modern Design', desc: 'Reimagining traditional silhouettes with contemporary cuts, fits, and finishing.', icon: <Sparkles size={20} /> },
-              { title: 'Contemporary Menswear', desc: 'Delivering a curated collection that bridges heritage and modern lifestyle.', icon: <Users size={20} /> },
+              { title: 'Heritage', desc: 'Drawing from centuries of Indian textile tradition and royal aesthetics of Paithani, Banarasi, and Kanjeevaram weaves.', icon: <Crown size={20} /> },
+              { title: 'Craft', desc: 'Partnering with skilled artisans who master traditional weaving, embroidery, and garment finishing.', icon: <Gem size={20} /> },
+              { title: 'Modern Design', desc: 'Reimagining traditional silhouettes with contemporary cuts, styles, and finishing.', icon: <Sparkles size={20} /> },
+              { title: 'Contemporary Women\'s Wear', desc: 'Delivering a curated collection that bridges heritage and modern lifestyle.', icon: <Users size={20} /> },
             ].map((item, i) => (
               <RevealSection key={i} delay={i * 100}>
                 <div className="flex gap-6 py-8 border-b border-border last:border-0">
@@ -167,9 +167,9 @@ export default function About() {
               Experience the <span className="text-gold italic">Collection</span>
             </h2>
             <p className="text-cream/60 max-w-md mx-auto mb-8 text-sm">
-              Discover menswear that honors tradition while embracing the modern gentleman's lifestyle.
+              Discover women's fashion that honors tradition while embracing the modern woman's lifestyle.
             </p>
-            <Link to="/ethnic-suits" className="group inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-dark font-semibold rounded-lg hover:bg-gold-light transition-all">
+            <Link to="/sarees" className="group inline-flex items-center gap-2 px-8 py-3.5 bg-gold text-dark font-semibold rounded-lg hover:bg-gold-light transition-all">
               EXPLORE COLLECTION <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
             </Link>
           </RevealSection>

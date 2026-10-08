@@ -48,9 +48,9 @@ export default function Project() {
 
   // Collection distribution
   const collectionData = [
-    { name: 'Ethnic & Suits', value: products.filter(p => ['kurtas', 'kurta-pajama', 'nehru-jackets', 'blazers', 'suits'].includes(p.category)).length },
-    { name: 'Casual & Outerwear', value: products.filter(p => ['shirts', 't-shirts', 'hoodies', 'bottom-wear', 'winter-wear'].includes(p.category)).length },
-    { name: 'Footwear & Accessories', value: products.filter(p => ['footwear', 'accessories'].includes(p.category)).length },
+    { name: 'Sarees', value: products.filter(p => p.category === 'sarees').length },
+    { name: 'Dresses', value: products.filter(p => p.category === 'dresses').length },
+    { name: 'Footwear & Accessories', value: products.filter(p => p.category === 'footwear-accessories').length },
   ];
 
   // Dev progress data (sample)
@@ -103,15 +103,15 @@ export default function Project() {
           </span>
 
           <h1 className="font-serif text-3xl md:text-5xl font-bold text-white mt-3 mb-4">
-            ABHI & ABHAY<br />
+            RK COLLECTIONS<br />
             <span className="text-gold italic">
-              Men's Wear Collections
+              Women's Wear Collections
             </span>
           </h1>
 
           <p className="text-cream/60 max-w-xl mx-auto text-sm">
-            Complete technical documentation for ABHI & ABHAY COLLECTIONS —
-            Men's Ethnic & Modern Fashion E-Commerce Frontend
+            Complete technical documentation for RK COLLECTIONS —
+            Women's Ethnic & Modern Fashion E-Commerce Frontend
           </p>
 
         </div>
@@ -129,8 +129,8 @@ export default function Project() {
               </div>
               <div className="p-6 grid sm:grid-cols-2 gap-4">
                 {[
-                  { label: 'Student Name', value: ['Abhishek Suresh Yadav', 'Abhay Harikishor Pandit'] },
-                  { label: 'Project Title', value: 'ABHI & ABHAY - Mens Wear Collections' },
+                  { label: 'Student Name', value: ['Rushikesh Zambare'] },
+                  { label: 'Project Title', value: 'RK Collections - Womens Wear Collections' },
                   { label: 'Course', value: 'B.Com (Third Year)' },
                   { label: 'College', value: 'BYK College' },
                   { label: 'Technology', value: 'React + JavaScript + Tailwind CSS' },
@@ -157,7 +157,7 @@ export default function Project() {
           <RevealSection>
             <SectionTitle icon={<BookOpen size={18} className="text-burgundy" />} title="Project Overview" />
             <div className="prose-custom text-sm text-muted leading-relaxed space-y-3">
-              <p>This project is a modern frontend e-commerce website designed for a men's fashion store focusing on Maharashtrian-inspired ethnic wear and contemporary menswear. The platform provides a premium shopping experience with curated collections, advanced filtering, wishlist management, cart operations, and a realistic checkout simulation.</p>
+              <p>This project is a modern frontend e-commerce website designed for a women's fashion store focusing on Indian-inspired ethnic wear and contemporary women's fashion. The platform provides a premium shopping experience with curated collections, advanced filtering, wishlist management, cart operations, and a realistic checkout simulation.</p>
               <p>The application demonstrates the complete customer journey from product discovery through checkout, including browser-based geolocation, payment simulation, and order confirmation — all implemented as a frontend-only application using React, JavaScript, and Tailwind CSS.</p>
             </div>
           </RevealSection>
@@ -166,7 +166,7 @@ export default function Project() {
           <RevealSection>
             <SectionTitle icon={<FileText size={18} className="text-burgundy" />} title="Abstract" />
             <div className="bg-cream/50 dark:bg-[#1A1614] rounded-xl p-6 text-sm text-muted leading-relaxed italic border-l-4 border-gold">
-              <p>This project presents the design and implementation of a premium frontend e-commerce application for men's fashion, specifically inspired by Maharashtrian royal heritage and contemporary Indian menswear. Built using React.js with JavaScript and Tailwind CSS, the application features a comprehensive product catalog sourced from a local JSON database, advanced search and filtering capabilities, wishlist management, shopping cart functionality, a multi-step checkout process with browser geolocation integration, and a realistic payment simulation system. The project demonstrates modern frontend development practices including component-based architecture, state management, responsive design, dark mode theming, and smooth user interactions — all without requiring any backend infrastructure.</p>
+              <p>This project presents the design and implementation of a premium frontend e-commerce application for women's fashion, specifically inspired by Indian heritage and contemporary women's wear. Built using React.js with JavaScript and Tailwind CSS, the application features a comprehensive product catalog sourced from a local JSON database, advanced search and filtering capabilities, wishlist management, shopping cart functionality, a multi-step checkout process with browser geolocation integration, and a realistic payment simulation system. The project demonstrates modern frontend development practices including component-based architecture, state management, responsive design, dark mode theming, and smooth user interactions — all without requiring any backend infrastructure.</p>
             </div>
           </RevealSection>
 
@@ -174,8 +174,8 @@ export default function Project() {
           <RevealSection>
             <SectionTitle icon={<Lightbulb size={18} className="text-burgundy" />} title="Introduction" />
             <div className="text-sm text-muted leading-relaxed space-y-3">
-              <p>The digital transformation of fashion retail has created unprecedented opportunities for brands to connect with customers online. In India, the men's fashion market is experiencing rapid growth, driven by increasing digital literacy, smartphone adoption, and a growing appreciation for quality menswear.</p>
-              <p>This project addresses the need for an organized, visually compelling online menswear experience that combines traditional Indian heritage with modern e-commerce functionality. The application serves as both a technical demonstration of frontend capabilities and a showcase of culturally-inspired design principles.</p>
+              <p>The digital transformation of fashion retail has created unprecedented opportunities for brands to connect with customers online. In India, the women's fashion market is experiencing rapid growth, driven by increasing digital literacy, smartphone adoption, and a growing appreciation for quality women's wear.</p>
+              <p>This project addresses the need for an organized, visually compelling online women's fashion experience that combines traditional Indian heritage with modern e-commerce functionality. The application serves as both a technical demonstration of frontend capabilities and a showcase of culturally-inspired design principles.</p>
             </div>
           </RevealSection>
 
@@ -184,7 +184,7 @@ export default function Project() {
             <SectionTitle icon={<AlertTriangle size={18} className="text-burgundy" />} title="Problem Statement" />
             <ul className="space-y-2 text-sm text-muted">
               {[
-                'Limited digital presence for traditional Indian menswear brands',
+                'Limited digital presence for traditional Indian women\'s fashion brands',
                 'Difficulty in discovering and browsing heritage-inspired products online',
                 'Fragmented product categories across different platforms',
                 'Poor catalogue experience with inconsistent product information',
@@ -204,7 +204,7 @@ export default function Project() {
             <div className="grid sm:grid-cols-2 gap-3">
               {[
                 'Build responsive e-commerce frontend',
-                'Organize menswear into clear collections',
+                'Organize women\'s wear into clear collections',
                 'Provide search and filtering system',
                 'Implement detailed product views',
                 'Create wishlist functionality',
@@ -264,8 +264,8 @@ export default function Project() {
 ├── Header (AnnouncementBar + Navigation)
 ├── Pages
 │   ├── Home (Hero + Heritage + Collections + Products + CTA)
-│   ├── EthnicSuits (CollectionPage)
-│   ├── CasualOuterwear (CollectionPage)
+│   ├── Sarees (CollectionPage)
+│   ├── Dresses (CollectionPage)
 │   ├── FootwearAccessories (CollectionPage)
 │   ├── ProductDetail (Gallery + Info + Tabs + Related)
 │   ├── Wishlist
@@ -471,7 +471,7 @@ export default function Project() {
           <RevealSection>
             <SectionTitle icon={<BookOpen size={18} className="text-burgundy" />} title="Conclusion" />
             <div className="text-sm text-muted leading-relaxed space-y-3 border-l-4 border-gold pl-6">
-              <p>This project successfully demonstrates the design and implementation of a modern, premium frontend e-commerce experience for men's fashion. By combining Maharashtrian heritage aesthetics with contemporary web development practices, the application showcases how cultural identity can be seamlessly integrated into digital commerce.</p>
+              <p>This project successfully demonstrates the design and implementation of a modern, premium frontend e-commerce experience for women's fashion. By combining Indian heritage aesthetics with contemporary web development practices, the application showcases how cultural identity can be seamlessly integrated into digital commerce.</p>
               <p>The implementation covers a comprehensive feature set including product browsing, search, filtering, wishlist management, shopping cart, multi-step checkout with geolocation, payment simulation, and theme switching — all achieved through frontend technologies alone.</p>
               <p>The project serves as a strong foundation for future full-stack development and demonstrates competency in React component architecture, state management, responsive design, and user experience principles. It stands as evidence that a frontend-only application can deliver a compelling, realistic e-commerce experience suitable for academic demonstration, portfolio presentation, and client showcasing.</p>
             </div>
