@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <rect width="64" height="64" rx="8" fill="#5B1424"/>
-  <text x="32" y="28" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="20" fill="#C5A24A">A&amp;A</text>
-  <line x1="12" y1="36" x2="52" y2="36" stroke="#C5A24A" stroke-width="1"/>
-  <text x="32" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#F8F1E7" letter-spacing="2">COLLECTIONS</text>
-</svg>
