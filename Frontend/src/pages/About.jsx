@@ -45,7 +45,7 @@ export default function About() {
           </div>
 
           <h1 className="font-serif text-4xl md:text-6xl font-bold text-white mb-4 leading-tight">
-            OUR STORY —<br />
+            OUR STORY<br />
             <span className="text-gold italic">
               The Thread of Indian Heritage
             </span>

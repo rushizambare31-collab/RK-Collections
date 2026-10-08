@@ -116,13 +116,28 @@ export default function Header() {
           </div>
 
           {/* CENTER: Logo */}
-          <Link to="/" className="flex flex-col items-center flex-shrink-0 group">
-            <span className="font-serif text-lg md:text-2xl font-bold text-burgundy tracking-wider group-hover:text-maroon transition-colors">
-              RK
-            </span>
-            <span className="text-[9px] md:text-[11px] tracking-[0.3em] text-muted font-sans uppercase -mt-0.5">
-              Collections
-            </span>
+          <Link to="/" className="flex items-center flex-shrink-0 group">
+
+            {/* Image */}
+            <div className="mr-2">
+              <img
+                src="/WebIcon.png"
+                alt="RK Collections"
+                className="w-14 h-14 md:w-16 md:h-16 object-contain"
+              />
+            </div>
+
+            {/* Existing RK + Collections */}
+            <div className="flex flex-col items-center">
+              <span className="font-serif text-lg md:text-2xl font-bold text-burgundy tracking-wider group-hover:text-maroon transition-colors">
+                RK
+              </span>
+
+              <span className="text-[9px] md:text-[11px] tracking-[0.3em] text-muted font-sans uppercase -mt-0.5">
+                Collections
+              </span>
+            </div>
+
           </Link>
 
           {/* RIGHT: Icons */}
@@ -297,16 +312,14 @@ export default function Header() {
         <>
           {/* Overlay */}
           <div
-            className={`fixed inset-0 bg-black/50 z-40 transition-opacity duration-300 ${
-              state.mobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
-            }`}
+            className={`fixed inset-0 bg-black/50 z-40 transition-opacity duration-300 ${state.mobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
+              }`}
             onClick={() => dispatch({ type: 'CLOSE_MOBILE_MENU' })}
           />
           {/* Drawer */}
           <div
-            className={`fixed top-0 left-0 h-full w-[300px] max-w-[85vw] bg-white dark:bg-[#1A1614] z-50 transform transition-transform duration-300 ease-out overflow-y-auto ${
-              state.mobileMenuOpen ? 'translate-x-0' : '-translate-x-full'
-            }`}
+            className={`fixed top-0 left-0 h-full w-[300px] max-w-[85vw] bg-white dark:bg-[#1A1614] z-50 transform transition-transform duration-300 ease-out overflow-y-auto ${state.mobileMenuOpen ? 'translate-x-0' : '-translate-x-full'
+              }`}
           >
             <div className="p-5 border-b border-border flex items-center justify-between">
               <span className="font-serif text-lg font-bold text-burgundy">RK COLLECTIONS</span>
@@ -319,11 +332,10 @@ export default function Header() {
                 <Link
                   key={link.path}
                   to={link.path}
-                  className={`block px-6 py-3.5 text-sm font-medium transition-colors border-l-3 ${
-                    location.pathname === link.path
-                      ? 'text-burgundy border-gold bg-cream/50'
-                      : 'text-dark hover:text-burgundy border-transparent hover:bg-cream/30'
-                  }`}
+                  className={`block px-6 py-3.5 text-sm font-medium transition-colors border-l-3 ${location.pathname === link.path
+                    ? 'text-burgundy border-gold bg-cream/50'
+                    : 'text-dark hover:text-burgundy border-transparent hover:bg-cream/30'
+                    }`}
                 >
                   {link.label}
                 </Link>

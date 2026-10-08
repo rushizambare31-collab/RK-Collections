@@ -51,7 +51,7 @@ export default function CollectionPage({ collection, title, subtitle, descriptio
       >
         {/* Background Image */}
         <img
-          src="/casualOutdoor.png"
+          src="PageBackground.png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover"
         />

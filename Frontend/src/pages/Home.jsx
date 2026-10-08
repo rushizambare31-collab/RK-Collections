@@ -29,7 +29,7 @@ export default function Home() {
 
         {/* HERO BACKGROUND IMAGE */}
         <img
-          src="/hero image.png"
+          src="/Hero.png"
           alt="Women's Fashion"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -167,7 +167,7 @@ export default function Home() {
 
                   {/* Image */}
                   <img
-                    src="/using image.png"
+                    src="/Samplefashion.png"
                     alt="RK Collections"
                     className="w-full h-full object-cover object-center transition-transform duration-700 hover:scale-105"
                   />
@@ -235,21 +235,21 @@ export default function Home() {
                 title: 'Sarees',
                 desc: 'Exquisite Paithani, Banarasi, Kanjeevaram, and designer sarees for weddings and festive occasions.',
                 path: '/sarees',
-                image: '/Ethic.jpg',
+                image: '/Sarres Collections.jpg',
                 icon: <Crown size={28} />,
               },
               {
                 title: 'Dresses',
                 desc: 'Premium Anarkali dresses, gowns, maxi dresses, and evening wear for every occasion.',
                 path: '/dresses',
-                image: '/casual.webp',
+                image: '/Dresses Collections.jpg',
                 icon: <Shirt size={28} />,
               },
               {
                 title: 'Footwear & Accessories',
                 desc: 'Traditional juttis, kolhapuri sandals, elegant heels, clutches, jewelry, and refined accessories.',
                 path: '/footwear-accessories',
-                image: '/accesoriess iamge.png',
+                image: '/Footwear & Accesories.jpg',
                 icon: <Gem size={28} />,
               },
             ].map((collection, i) => (
