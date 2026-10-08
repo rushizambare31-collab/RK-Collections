@@ -1,0 +1,203 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+/* ===== CUSTOM THEME ===== */
+@theme {
+  --color-burgundy: #5B1424;
+  --color-burgundy-light: #7A2038;
+  --color-maroon: #430D1A;
+  --color-maroon-deep: #2E0912;
+  --color-gold: #C5A24A;
+  --color-gold-light: #D4B76A;
+  --color-gold-dark: #A8883D;
+  --color-ivory: #F8F1E7;
+  --color-cream: #F1E3D3;
+  --color-cream-dark: #E5D4C0;
+  --color-brown: #4A3427;
+  --color-brown-light: #6B5548;
+  --color-dark: #28211D;
+  --color-muted: #766A61;
+  --color-border: #DCCDBB;
+  --color-border-light: #E8DDD0;
+
+  --color-success: #2D7A4F;
+  --color-error: #B83232;
+  --color-warning: #C5922A;
+
+  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --animate-fade-in: fade-in 0.6s ease-out forwards;
+  --animate-slide-up: slide-up 0.6s ease-out forwards;
+  --animate-slide-down: slide-down 0.3s ease-out forwards;
+  --animate-scale-in: scale-in 0.3s ease-out forwards;
+  --animate-heart-beat: heart-beat 0.4s ease-in-out;
+  --animate-shimmer: shimmer 1.5s infinite linear;
+}
+
+/* ===== KEYFRAMES ===== */
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-down {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scale-in {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes heart-beat {
+  0% { transform: scale(1); }
+  25% { transform: scale(1.3); }
+  50% { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* ===== BASE ===== */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-dark);
+  background-color: var(--color-ivory);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===== DARK MODE ===== */
+.dark body,
+.dark {
+  --color-ivory: #1A1614;
+  --color-cream: #231F1B;
+  --color-cream-dark: #2C2622;
+  --color-dark: #F1E3D3;
+  --color-muted: #A89A8F;
+  --color-border: #3D342C;
+  --color-border-light: #332B24;
+  --color-brown: #D4B76A;
+  --color-brown-light: #C5A24A;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted);
+}
+
+/* ===== GLOBAL UTILITIES ===== */
+.container-main {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 64px;
+  padding-right: 64px;
+}
+
+@media (max-width: 1023px) {
+  .container-main {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .container-main {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+/* Serif heading */
+.heading-serif {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+/* Gold ornamental divider */
+.ornament-divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  justify-content: center;
+}
+.ornament-divider::before,
+.ornament-divider::after {
+  content: '';
+  height: 1px;
+  width: 60px;
+  background: linear-gradient(90deg, transparent, var(--color-gold), transparent);
+}
+.ornament-divider .ornament-diamond {
+  width: 8px;
+  height: 8px;
+  background: var(--color-gold);
+  transform: rotate(45deg);
+}
+
+/* Skeleton loading */
+.skeleton {
+  background: linear-gradient(90deg, var(--color-cream) 25%, var(--color-cream-dark) 50%, var(--color-cream) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+  border-radius: 4px;
+}
+
+/* Intersection observer reveal */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Product image hover zoom */
+.img-zoom {
+  overflow: hidden;
+}
+.img-zoom img {
+  transition: transform 0.5s ease;
+}
+.img-zoom:hover img {
+  transform: scale(1.08);
+}
+
+/* Gold border accent */
+.gold-border-top {
+  border-top: 2px solid var(--color-gold);
+}
+
+/* Selection */
+::selection {
+  background: var(--color-burgundy);
+  color: white;
+}
