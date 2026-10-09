@@ -105,7 +105,7 @@ export default function Project() {
           <h1 className="font-serif text-3xl md:text-5xl font-bold text-white mt-3 mb-4">
             RK COLLECTIONS<br />
             <span className="text-gold italic">
-              Women's Wear Collections
+              Women's Wear Collections 
             </span>
           </h1>
 
