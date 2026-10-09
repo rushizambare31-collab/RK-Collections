@@ -39,7 +39,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.H6uWg7km_jbC2Td_54syBgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Traditional Paithani-inspired design",
       "Premium silk fabric",
@@ -127,7 +127,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://media.urbanwomania.com/wp-content/uploads/2022/08/Emerald-Green-Woven-Paithani-Silk-Saree.jpg",
     "highlights": [
       "Rich emerald color",
       "Traditional zari border",
@@ -215,7 +215,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://sareebuta.com/cdn/shop/files/Wine-Banarasi-Silk-Saree-ZB130835_01_26005cf0-80c8-4ce2-bea4-fbf6bb792db0.jpg?v=1738055234&width=1066",
     "highlights": [
       "Premium Banarasi silk",
       "Rich wine shade",
@@ -303,7 +303,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://th.bing.com/th/id/OIP.u2hPC8wyhE7v1AqmQ3w1GQHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Authentic bridal styling",
       "Luxurious silk texture",
@@ -391,7 +391,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse1.explicit.bing.net/th/id/OIP.sMgVYQfz2WNmRq-vc86CAwHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Lightweight organza fabric",
       "Elegant golden detailing",
@@ -479,7 +479,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://sunasa.in/cdn/shop/files/indian-georgette-saree-usa-pink-color_1500x.jpg?v=1718914667",
     "highlights": [
       "Soft flowing georgette",
       "Contemporary festive look",
@@ -567,7 +567,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://th.bing.com/th/id/OIP.An1XVxvIDTQ1hV39H6SmhQHaLH?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Breathable cotton fabric",
       "Comfortable for daily wear",
@@ -655,7 +655,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://www.omsara.co.uk/wp-content/uploads/IMG_3759-compressed.jpeg",
     "highlights": [
       "Premium designer finish",
       "Deep navy color",
@@ -743,7 +743,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.zS8MUNBRjHfs9z7gC7K0FAHaKX?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Lightweight chiffon",
       "Elegant shimmer detail",
@@ -831,7 +831,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0637/4834/1981/files/1_VANYA-21-3115.jpg?v=1683115247",
     "highlights": [
       "Rich maroon tone",
       "Intricate embroidery",
@@ -880,447 +880,6 @@
     "isBestSeller": true
   },
   {
-    "id": 11,
-    "name": "Black Sequence Designer Saree",
-    "slug": "black-sequence-designer-saree",
-    "category": "sarees",
-    "subcategory": "designer",
-    "price": 2799,
-    "originalPrice": 3399,
-    "discount": 18,
-    "rating": 4.6,
-    "reviewCount": 85,
-    "brand": "RK Collections",
-    "shortDescription": "A striking black saree with subtle sequence work for glamorous evening styling.",
-    "description": "This black designer saree is crafted for evening glamour, featuring delicate sequence detailing and a sleek, sophisticated drape.",
-    "material": "Georgette",
-    "fit": "Free Size",
-    "pattern": "Sequence",
-    "occasion": [
-      "Party",
-      "Evening",
-      "Reception"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Black"
-    ],
-    "colorOptions": [
-      {
-        "name": "Black",
-        "hex": "#111111"
-      }
-    ],
-    "stock": 13,
-    "sku": "AAC-SAR-011",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Elegant black base",
-      "Delicate sequence work",
-      "Evening-ready styling",
-      "Modern designer silhouette"
-    ],
-    "specifications": {
-      "fabric": "Georgette",
-      "pattern": "Sequence",
-      "border": "Minimal Metallic Border",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean recommended",
-      "Store in garment cover",
-      "Avoid snagging on rough surfaces"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.6,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 11,
-        "user": "Nikita",
-        "rating": 5,
-        "title": "Perfect evening saree",
-        "comment": "Simple but glamorous, exactly what I wanted.",
-        "date": "2026-09-17"
-      }
-    ],
-    "relatedProducts": [
-      8,
-      9,
-      12
-    ],
-    "isNew": false,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-  {
-    "id": 12,
-    "name": "Teal Banarasi Saree",
-    "slug": "teal-banarasi-saree",
-    "category": "sarees",
-    "subcategory": "banarasi",
-    "price": 3199,
-    "originalPrice": 3899,
-    "discount": 18,
-    "rating": 4.7,
-    "reviewCount": 97,
-    "brand": "RK Collections",
-    "shortDescription": "A beautiful teal Banarasi saree with traditional woven golden motifs.",
-    "description": "The rich teal tone and luxurious Banarasi texture make this saree ideal for festive gatherings and elegant family celebrations.",
-    "material": "Banarasi Silk Blend",
-    "fit": "Free Size",
-    "pattern": "Woven Zari",
-    "occasion": [
-      "Festive",
-      "Wedding",
-      "Family Events"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Teal"
-    ],
-    "colorOptions": [
-      {
-        "name": "Teal",
-        "hex": "#176B61"
-      }
-    ],
-    "stock": 17,
-    "sku": "AAC-SAR-012",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Rich teal color",
-      "Traditional woven motifs",
-      "Premium Banarasi-inspired finish",
-      "Festive versatility"
-    ],
-    "specifications": {
-      "fabric": "Banarasi Silk Blend",
-      "pattern": "Woven Zari",
-      "border": "Golden Woven Border",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean recommended",
-      "Store in muslin cloth",
-      "Avoid direct sunlight"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.7,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 12,
-        "user": "Aarti",
-        "rating": 5,
-        "title": "Beautiful teal",
-        "comment": "The color is unique and the zari work is lovely.",
-        "date": "2026-09-26"
-      }
-    ],
-    "relatedProducts": [
-      2,
-      3,
-      8
-    ],
-    "isNew": true,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-  {
-    "id": 13,
-    "name": "Rose Pink Chanderi Saree",
-    "slug": "rose-pink-chanderi-saree",
-    "category": "sarees",
-    "subcategory": "chanderi",
-    "price": 2499,
-    "originalPrice": 3099,
-    "discount": 19,
-    "rating": 4.5,
-    "reviewCount": 62,
-    "brand": "RK Collections",
-    "shortDescription": "A delicate rose pink Chanderi saree with lightweight texture and elegant detailing.",
-    "description": "Perfect for graceful daytime occasions, this rose pink Chanderi saree offers a delicate drape with a sophisticated traditional appearance.",
-    "material": "Chanderi Silk Cotton",
-    "fit": "Free Size",
-    "pattern": "Woven Floral",
-    "occasion": [
-      "Festive",
-      "Day Events",
-      "Casual"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Rose Pink"
-    ],
-    "colorOptions": [
-      {
-        "name": "Rose Pink",
-        "hex": "#D98C9D"
-      }
-    ],
-    "stock": 20,
-    "sku": "AAC-SAR-013",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Lightweight Chanderi texture",
-      "Soft rose pink shade",
-      "Woven floral detailing",
-      "Elegant daytime styling"
-    ],
-    "specifications": {
-      "fabric": "Chanderi Silk Cotton",
-      "pattern": "Woven Floral",
-      "border": "Fine Woven Border",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Gentle hand wash",
-      "Use mild detergent",
-      "Dry in shade"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.5,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 13,
-        "user": "Snehal",
-        "rating": 4,
-        "title": "Soft and elegant",
-        "comment": "Looks beautiful for daytime functions.",
-        "date": "2026-09-13"
-      }
-    ],
-    "relatedProducts": [
-      5,
-      6,
-      14
-    ],
-    "isNew": false,
-    "isFeatured": false,
-    "isBestSeller": false
-  },
-  {
-    "id": 14,
-    "name": "Beige Linen Saree",
-    "slug": "beige-linen-saree",
-    "category": "sarees",
-    "subcategory": "linen",
-    "price": 1999,
-    "originalPrice": 2499,
-    "discount": 20,
-    "rating": 4.4,
-    "reviewCount": 58,
-    "brand": "RK Collections",
-    "shortDescription": "A minimal beige linen saree with natural texture and understated elegance.",
-    "description": "This breathable linen saree is designed for women who prefer sophisticated minimalism, making it suitable for work, brunches and intimate gatherings.",
-    "material": "Premium Linen",
-    "fit": "Free Size",
-    "pattern": "Solid Textured",
-    "occasion": [
-      "Casual",
-      "Office",
-      "Day Events"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Beige"
-    ],
-    "colorOptions": [
-      {
-        "name": "Beige",
-        "hex": "#D8C4A8"
-      }
-    ],
-    "stock": 22,
-    "sku": "AAC-SAR-014",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Premium breathable linen",
-      "Minimal elegant design",
-      "Comfortable for daily wear",
-      "Natural textured finish"
-    ],
-    "specifications": {
-      "fabric": "Premium Linen",
-      "pattern": "Solid Textured",
-      "border": "Minimal Contrast Border",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Gentle wash",
-      "Iron on medium heat",
-      "Avoid high heat drying"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.4,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 14,
-        "user": "Madhuri",
-        "rating": 4,
-        "title": "Minimal and classy",
-        "comment": "Great for office and simple occasions.",
-        "date": "2026-09-09"
-      }
-    ],
-    "relatedProducts": [
-      7,
-      13,
-      15
-    ],
-    "isNew": false,
-    "isFeatured": false,
-    "isBestSeller": false
-  },
-  {
-    "id": 15,
-    "name": "Purple Zari Border Traditional Saree",
-    "slug": "purple-zari-border-traditional-saree",
-    "category": "sarees",
-    "subcategory": "traditional",
-    "price": 2699,
-    "originalPrice": 3299,
-    "discount": 18,
-    "rating": 4.6,
-    "reviewCount": 71,
-    "brand": "RK Collections",
-    "shortDescription": "A traditional purple saree finished with an elegant zari border.",
-    "description": "Inspired by timeless Indian silhouettes, this purple saree features a classic zari border and a rich traditional finish for festive occasions.",
-    "material": "Silk Blend",
-    "fit": "Free Size",
-    "pattern": "Traditional Border",
-    "occasion": [
-      "Festive",
-      "Traditional",
-      "Puja"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Purple"
-    ],
-    "colorOptions": [
-      {
-        "name": "Purple",
-        "hex": "#6B3A67"
-      }
-    ],
-    "stock": 15,
-    "sku": "AAC-SAR-015",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Classic Indian styling",
-      "Elegant zari border",
-      "Rich purple tone",
-      "Ideal for traditional occasions"
-    ],
-    "specifications": {
-      "fabric": "Silk Blend",
-      "pattern": "Traditional Border",
-      "border": "Antique Gold Zari",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean recommended",
-      "Store in muslin cloth",
-      "Avoid direct sunlight"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.6,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 15,
-        "user": "Vaishnavi",
-        "rating": 5,
-        "title": "Traditional beauty",
-        "comment": "The purple and gold combination is gorgeous.",
-        "date": "2026-09-25"
-      }
-    ],
-    "relatedProducts": [
-      1,
-      4,
-      10
-    ],
-    "isNew": false,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-
-  {
     "id": 16,
     "name": "Burgundy Embroidered Anarkali Dress",
     "slug": "burgundy-embroidered-anarkali-dress",
@@ -1366,7 +925,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.pinimg.com/originals/2c/a0/5c/2ca05c05d73dd7331ec0c6d06ff47517.jpg",
     "highlights": [
       "Elegant embroidery",
       "Flowing Anarkali silhouette",
@@ -1409,7 +968,7 @@
     "relatedProducts": [
       17,
       21,
-      30
+      18
     ],
     "isNew": true,
     "isFeatured": true,
@@ -1460,7 +1019,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.H9MUfPPz7mtoO4I-a6PGHwHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Luxury velvet fabric",
       "Regal emerald shade",
@@ -1503,7 +1062,7 @@
     "relatedProducts": [
       19,
       22,
-      30
+      16
     ],
     "isNew": true,
     "isFeatured": true,
@@ -1554,7 +1113,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://zapaka.com/cdn/shop/files/YYYHQ0389_3_1024x1024.jpg?v=1718882787",
     "highlights": [
       "Flattering A-line silhouette",
       "Delicate floral pattern",
@@ -1597,7 +1156,7 @@
     "relatedProducts": [
       23,
       24,
-      28
+      16
     ],
     "isNew": false,
     "isFeatured": false,
@@ -1648,7 +1207,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse1.explicit.bing.net/th/id/OIP.NK5PVjZhIjJ2HIfmDrSJ6AHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Elegant shimmer detailing",
       "Flowing premium silhouette",
@@ -1691,7 +1250,7 @@
     "relatedProducts": [
       17,
       22,
-      30
+      16
     ],
     "isNew": true,
     "isFeatured": true,
@@ -1743,7 +1302,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://www.lulus.com/images/product/xlarge/12184981_2519271.jpg?w=560",
     "highlights": [
       "Elegant maxi silhouette",
       "Comfortable rayon fabric",
@@ -1786,7 +1345,7 @@
     "relatedProducts": [
       24,
       25,
-      28
+      16
     ],
     "isNew": false,
     "isFeatured": false,
@@ -1837,7 +1396,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse1.explicit.bing.net/th/id/OIP.f3k4-kJ-h_gFswiX2TJvsQHaNR?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Flowing flared silhouette",
       "Soft blush pink color",
@@ -1931,7 +1490,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.pinimg.com/736x/64/6b/17/646b17135e6b683daf37bbdea3662e9b.jpg",
     "highlights": [
       "Sophisticated black finish",
       "Refined sequin detailing",
@@ -1973,8 +1532,8 @@
     ],
     "relatedProducts": [
       19,
-      27,
-      30
+      16,
+      17
     ],
     "isNew": false,
     "isFeatured": true,
@@ -2026,7 +1585,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://images.cbazaar.com/images/digital-print-anarkali-in-mustard-with-stunning-zardosi-embroidered-work-slscc55655750-u.jpg",
     "highlights": [
       "Warm festive mustard shade",
       "Comfortable cotton silk",
@@ -2069,7 +1628,7 @@
     "relatedProducts": [
       21,
       24,
-      30
+      16
     ],
     "isNew": true,
     "isFeatured": false,
@@ -2120,7 +1679,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://www.inddus.com/cdn/shop/files/IND-GWN-7342-5.jpg?v=1768373997",
     "highlights": [
       "Rich teal color",
       "Elegant embroidery",
@@ -2163,7 +1722,7 @@
     "relatedProducts": [
       20,
       23,
-      28
+      16
     ],
     "isNew": false,
     "isFeatured": true,
@@ -2214,7 +1773,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.pinimg.com/736x/19/08/86/190886890d0d75c072583702e0e74968.jpg",
     "highlights": [
       "Comfortable tiered design",
       "Rich wine shade",
@@ -2257,485 +1816,12 @@
     "relatedProducts": [
       20,
       22,
-      28
+      16
     ],
     "isNew": true,
     "isFeatured": false,
     "isBestSeller": false
   },
-  {
-    "id": 26,
-    "name": "Peach Organza Festive Gown",
-    "slug": "peach-organza-festive-gown",
-    "category": "dresses",
-    "subcategory": "gown",
-    "price": 3199,
-    "originalPrice": 3999,
-    "discount": 20,
-    "rating": 4.7,
-    "reviewCount": 84,
-    "brand": "RK Collections",
-    "shortDescription": "A delicate peach organza gown designed for elegant festive celebrations.",
-    "description": "With a soft peach tone and structured organza layers, this gown creates an elegant festive silhouette for celebrations and receptions.",
-    "material": "Organza",
-    "fit": "Flared Fit",
-    "sleeve": "Sleeveless",
-    "neck": "Round Neck",
-    "pattern": "Embellished",
-    "occasion": [
-      "Festive",
-      "Reception",
-      "Party"
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Peach"
-    ],
-    "colorOptions": [
-      {
-        "name": "Peach",
-        "hex": "#F2B49B"
-      }
-    ],
-    "stock": 9,
-    "sku": "AAC-DRS-011",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Delicate organza layers",
-      "Soft peach palette",
-      "Elegant festive silhouette",
-      "Suitable for receptions"
-    ],
-    "specifications": {
-      "fabric": "Organza",
-      "fit": "Flared Fit",
-      "sleeve": "Sleeveless",
-      "pattern": "Embellished",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean only",
-      "Store hanging",
-      "Avoid moisture"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "4-6 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.7,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 26,
-        "user": "Priti",
-        "rating": 5,
-        "title": "Beautiful festive gown",
-        "comment": "Very graceful and the peach color is lovely.",
-        "date": "2026-09-23"
-      }
-    ],
-    "relatedProducts": [
-      19,
-      21,
-      30
-    ],
-    "isNew": true,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-  {
-    "id": 27,
-    "name": "Royal Blue Floor-Length Gown",
-    "slug": "royal-blue-floor-length-gown",
-    "category": "dresses",
-    "subcategory": "floor-length",
-    "price": 3499,
-    "originalPrice": 4299,
-    "discount": 19,
-    "rating": 4.8,
-    "reviewCount": 113,
-    "brand": "RK Collections",
-    "shortDescription": "A statement royal blue floor-length gown with elegant draping and detailing.",
-    "description": "This floor-length gown combines a rich royal blue shade with graceful draping for formal evenings, receptions and celebrations.",
-    "material": "Satin Crepe",
-    "fit": "Structured Fit",
-    "sleeve": "Full Sleeve",
-    "neck": "Boat Neck",
-    "pattern": "Solid Draped",
-    "occasion": [
-      "Reception",
-      "Evening",
-      "Wedding"
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Royal Blue"
-    ],
-    "colorOptions": [
-      {
-        "name": "Royal Blue",
-        "hex": "#243B7A"
-      }
-    ],
-    "stock": 8,
-    "sku": "AAC-DRS-012",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Rich royal blue tone",
-      "Elegant floor-length silhouette",
-      "Premium satin crepe",
-      "Perfect for formal occasions"
-    ],
-    "specifications": {
-      "fabric": "Satin Crepe",
-      "fit": "Structured Fit",
-      "sleeve": "Full Sleeve",
-      "pattern": "Solid Draped",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean only",
-      "Store hanging",
-      "Avoid direct sunlight"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "4-6 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.8,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 27,
-        "user": "Nandini",
-        "rating": 5,
-        "title": "Royal look",
-        "comment": "The blue color and drape look amazing.",
-        "date": "2026-09-24"
-      }
-    ],
-    "relatedProducts": [
-      17,
-      22,
-      30
-    ],
-    "isNew": false,
-    "isFeatured": true,
-    "isBestSeller": true
-  },
-  {
-    "id": 28,
-    "name": "Lavender Floral Midi Dress",
-    "slug": "lavender-floral-midi-dress",
-    "category": "dresses",
-    "subcategory": "midi",
-    "price": 1999,
-    "originalPrice": 2499,
-    "discount": 20,
-    "rating": 4.4,
-    "reviewCount": 54,
-    "brand": "RK Collections",
-    "shortDescription": "A soft lavender floral midi dress for elegant everyday styling.",
-    "description": "This flattering midi dress combines a soft lavender palette with delicate floral print for brunches, outings and relaxed occasions.",
-    "material": "Viscose",
-    "fit": "Regular Fit",
-    "sleeve": "Short Sleeve",
-    "neck": "Round Neck",
-    "pattern": "Floral",
-    "occasion": [
-      "Casual",
-      "Brunch",
-      "Travel"
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Lavender"
-    ],
-    "colorOptions": [
-      {
-        "name": "Lavender",
-        "hex": "#B6A0D2"
-      }
-    ],
-    "stock": 24,
-    "sku": "AAC-DRS-013",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Soft floral print",
-      "Comfortable viscose fabric",
-      "Easy midi silhouette",
-      "Perfect for casual outings"
-    ],
-    "specifications": {
-      "fabric": "Viscose",
-      "fit": "Regular Fit",
-      "sleeve": "Short Sleeve",
-      "pattern": "Floral",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Gentle machine wash",
-      "Do not bleach",
-      "Iron on low heat"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.4,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 28,
-        "user": "Shreya",
-        "rating": 4,
-        "title": "Cute and comfortable",
-        "comment": "Great for casual days and brunch.",
-        "date": "2026-09-08"
-      }
-    ],
-    "relatedProducts": [
-      18,
-      20,
-      25
-    ],
-    "isNew": false,
-    "isFeatured": false,
-    "isBestSeller": false
-  },
-  {
-    "id": 29,
-    "name": "Cream Embroidered Straight Dress",
-    "slug": "cream-embroidered-straight-dress",
-    "category": "dresses",
-    "subcategory": "designer",
-    "price": 2299,
-    "originalPrice": 2899,
-    "discount": 21,
-    "rating": 4.6,
-    "reviewCount": 67,
-    "brand": "RK Collections",
-    "shortDescription": "A refined cream straight dress featuring delicate embroidery and a clean silhouette.",
-    "description": "This cream dress offers a sophisticated straight silhouette with subtle embroidery, making it suitable for festive lunches, work events and small celebrations.",
-    "material": "Cotton Silk",
-    "fit": "Straight Fit",
-    "sleeve": "Three Quarter",
-    "neck": "Mandarin Neck",
-    "pattern": "Embroidered",
-    "occasion": [
-      "Festive",
-      "Office",
-      "Day Events"
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "Cream"
-    ],
-    "colorOptions": [
-      {
-        "name": "Cream",
-        "hex": "#F1E3D3"
-      }
-    ],
-    "stock": 18,
-    "sku": "AAC-DRS-014",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Elegant straight silhouette",
-      "Delicate embroidery",
-      "Comfortable cotton silk",
-      "Versatile occasion wear"
-    ],
-    "specifications": {
-      "fabric": "Cotton Silk",
-      "fit": "Straight Fit",
-      "sleeve": "Three Quarter",
-      "pattern": "Embroidered",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Gentle wash",
-      "Use mild detergent",
-      "Iron on low heat"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.6,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 29,
-        "user": "Swati",
-        "rating": 5,
-        "title": "Simple and elegant",
-        "comment": "Very neat design and comfortable fabric.",
-        "date": "2026-09-10"
-      }
-    ],
-    "relatedProducts": [
-      18,
-      23,
-      24
-    ],
-    "isNew": false,
-    "isFeatured": false,
-    "isBestSeller": false
-  },
-  {
-    "id": 30,
-    "name": "Maroon Designer Wedding Gown",
-    "slug": "maroon-designer-wedding-gown",
-    "category": "dresses",
-    "subcategory": "wedding",
-    "price": 4199,
-    "originalPrice": 5299,
-    "discount": 21,
-    "rating": 4.9,
-    "reviewCount": 142,
-    "brand": "RK Collections",
-    "shortDescription": "A luxurious maroon wedding gown with elegant embroidery and a royal silhouette.",
-    "description": "Designed for grand celebrations, this maroon wedding gown brings together intricate embroidery, rich fabric and a regal silhouette for memorable occasions.",
-    "material": "Velvet & Net",
-    "fit": "Flared Fit",
-    "sleeve": "Full Sleeve",
-    "neck": "Sweetheart Neck",
-    "pattern": "Heavy Embroidered",
-    "occasion": [
-      "Wedding",
-      "Reception",
-      "Bridal"
-    ],
-    "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "colors": [
-      "Maroon"
-    ],
-    "colorOptions": [
-      {
-        "name": "Maroon",
-        "hex": "#64152B"
-      }
-    ],
-    "stock": 6,
-    "sku": "AAC-DRS-015",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Royal maroon shade",
-      "Heavy embroidery",
-      "Grand wedding silhouette",
-      "Premium festive construction"
-    ],
-    "specifications": {
-      "fabric": "Velvet & Net",
-      "fit": "Flared Fit",
-      "sleeve": "Full Sleeve",
-      "pattern": "Heavy Embroidered",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean only",
-      "Store hanging",
-      "Keep away from moisture"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "4-7 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.9,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 30,
-        "user": "Kajal",
-        "rating": 5,
-        "title": "Absolutely royal",
-        "comment": "A beautiful gown for weddings and grand events.",
-        "date": "2026-09-27"
-      }
-    ],
-    "relatedProducts": [
-      17,
-      19,
-      27
-    ],
-    "isNew": true,
-    "isFeatured": true,
-    "isBestSeller": true
-  },
-
   {
     "id": 31,
     "name": "Golden Embellished Jutti",
@@ -2781,7 +1867,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://shrihan.in/cdn/shop/files/WhatsApp_Image_2025-07-27_at_1.40.38_PM_2.jpg?v=1753604902&width=533",
     "highlights": [
       "Traditional jutti silhouette",
       "Elegant embellishments",
@@ -2874,7 +1960,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.etsystatic.com/57752197/r/il/763ed0/7141720053/il_1080xN.7141720053_h99n.jpg",
     "highlights": [
       "Delicate pearl detailing",
       "Classic bridal silhouette",
@@ -2967,7 +2053,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.etsystatic.com/33702101/r/il/c57ce8/6955253522/il_800x800.6955253522_sxdd.jpg",
     "highlights": [
       "Traditional Kolhapuri-inspired style",
       "Comfortable everyday footwear",
@@ -3059,7 +2145,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://img.staticdj.com/a77d91ce000590dcd5b2dd191b04dd7a_1080x.jpg",
     "highlights": [
       "Comfortable block heel",
       "Elegant maroon finish",
@@ -3151,7 +2237,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.pinimg.com/originals/40/ca/61/40ca6113a8d3b452bf4576ebe0993131.jpg",
     "highlights": [
       "Minimal strappy design",
       "Versatile nude shade",
@@ -3244,7 +2330,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://img.ltwebstatic.com/images3_pi/2022/11/16/166856319040c9c1e3eaf40287af22cb9880508ea1_thumbnail_720x.webp",
     "highlights": [
       "Classic loafer silhouette",
       "Polished black finish",
@@ -3337,7 +2423,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://i.pinimg.com/originals/43/b1/02/43b10291b31b15e819d715406c21b60b.jpg",
     "highlights": [
       "Clean minimal design",
       "Comfortable cushioning",
@@ -3425,7 +2511,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://www.southjewellery.com/wp-content/uploads/2022/09/kundan-choker-krishna-768x787.jpg",
     "highlights": [
       "Antique gold finish",
       "Kundan-inspired detailing",
@@ -3467,7 +2553,7 @@
     "relatedProducts": [
       39,
       40,
-      41
+      31
     ],
     "isNew": true,
     "isFeatured": true,
@@ -3514,7 +2600,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw8e61dbf6/images/blog-images/Drop-Earrings-With-Pearls.jpg",
     "highlights": [
       "Elegant pearl drop design",
       "Lightweight feel",
@@ -3556,7 +2642,7 @@
     "relatedProducts": [
       38,
       40,
-      41
+      31
     ],
     "isNew": false,
     "isFeatured": true,
@@ -3602,7 +2688,7 @@
       "DIRECT_IMAGE_URL_1",
       "DIRECT_IMAGE_URL_2"
     ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
+    "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.lPxhNMI_rjtH-4RKcUqLQAHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "highlights": [
       "Minimal modern design",
       "Adjustable fit",
@@ -3644,453 +2730,10 @@
     "relatedProducts": [
       38,
       39,
-      41
+      31
     ],
     "isNew": false,
     "isFeatured": false,
-    "isBestSeller": false
-  },
-  {
-    "id": 41,
-    "name": "Traditional Gold Bangles Set",
-    "slug": "traditional-gold-bangles-set",
-    "category": "footwear-accessories",
-    "subcategory": "bangles",
-    "price": 1499,
-    "originalPrice": 1899,
-    "discount": 21,
-    "rating": 4.7,
-    "reviewCount": 85,
-    "brand": "RK Collections",
-    "shortDescription": "A traditional gold-toned bangle set inspired by classic Indian festive jewellery.",
-    "description": "Designed to complement sarees and ethnic dresses, this bangle set features traditional detailing and an antique gold-inspired finish.",
-    "material": "Brass Alloy",
-    "fit": "Regular Fit",
-    "pattern": "Traditional",
-    "occasion": [
-      "Wedding",
-      "Festive",
-      "Traditional"
-    ],
-    "sizes": [
-      "2.4",
-      "2.6",
-      "2.8"
-    ],
-    "colors": [
-      "Gold"
-    ],
-    "colorOptions": [
-      {
-        "name": "Gold",
-        "hex": "#C5A24A"
-      }
-    ],
-    "stock": 20,
-    "sku": "AAC-FAC-011",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Traditional Indian styling",
-      "Rich gold-toned finish",
-      "Multiple sizes",
-      "Perfect for festive wear"
-    ],
-    "specifications": {
-      "material": "Brass Alloy",
-      "pattern": "Traditional",
-      "setSize": "Set of 8",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Keep dry",
-      "Store in a jewellery pouch",
-      "Avoid direct perfume contact"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.7,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 41,
-        "user": "Bhakti",
-        "rating": 5,
-        "title": "Traditional and beautiful",
-        "comment": "Looks lovely with sarees and ethnic wear.",
-        "date": "2026-09-21"
-      }
-    ],
-    "relatedProducts": [
-      38,
-      39,
-      42
-    ],
-    "isNew": true,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-  {
-    "id": 42,
-    "name": "Ivory Embroidered Clutch",
-    "slug": "ivory-embroidered-clutch",
-    "category": "footwear-accessories",
-    "subcategory": "clutches",
-    "price": 1199,
-    "originalPrice": 1499,
-    "discount": 20,
-    "rating": 4.5,
-    "reviewCount": 63,
-    "brand": "RK Collections",
-    "shortDescription": "An elegant ivory clutch with embroidered detailing for festive occasions.",
-    "description": "This compact ivory clutch features delicate embroidery and a refined silhouette, perfect for weddings, parties and festive gatherings.",
-    "material": "Fabric & Synthetic Leather",
-    "fit": "Compact",
-    "pattern": "Embroidered",
-    "occasion": [
-      "Wedding",
-      "Party",
-      "Festive"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Ivory"
-    ],
-    "colorOptions": [
-      {
-        "name": "Ivory",
-        "hex": "#F8F1E7"
-      }
-    ],
-    "stock": 17,
-    "sku": "AAC-FAC-012",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Elegant ivory finish",
-      "Embroidered detailing",
-      "Compact party-friendly size",
-      "Easy ethnic styling"
-    ],
-    "specifications": {
-      "material": "Fabric & Synthetic Leather",
-      "pattern": "Embroidered",
-      "closure": "Magnetic Snap",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Keep dry",
-      "Wipe gently",
-      "Store inside dust bag"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.5,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 42,
-        "user": "Ruchi",
-        "rating": 4,
-        "title": "Pretty clutch",
-        "comment": "Looks elegant with festive outfits.",
-        "date": "2026-09-18"
-      }
-    ],
-    "relatedProducts": [
-      41,
-      43,
-      45
-    ],
-    "isNew": false,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-  {
-    "id": 43,
-    "name": "Burgundy Designer Handbag",
-    "slug": "burgundy-designer-handbag",
-    "category": "footwear-accessories",
-    "subcategory": "handbags",
-    "price": 2199,
-    "originalPrice": 2799,
-    "discount": 21,
-    "rating": 4.6,
-    "reviewCount": 74,
-    "brand": "RK Collections",
-    "shortDescription": "A structured burgundy handbag with a premium finish for everyday elegance.",
-    "description": "This burgundy handbag is designed with a structured silhouette, practical storage and a sophisticated finish suited to everyday and occasion styling.",
-    "material": "Premium Faux Leather",
-    "fit": "Structured",
-    "pattern": "Solid",
-    "occasion": [
-      "Office",
-      "Casual",
-      "Party"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Burgundy"
-    ],
-    "colorOptions": [
-      {
-        "name": "Burgundy",
-        "hex": "#64152B"
-      }
-    ],
-    "stock": 13,
-    "sku": "AAC-FAC-013",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Structured premium design",
-      "Rich burgundy color",
-      "Spacious daily-use interior",
-      "Versatile styling"
-    ],
-    "specifications": {
-      "material": "Premium Faux Leather",
-      "pattern": "Solid",
-      "closure": "Zip & Snap",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Wipe with soft cloth",
-      "Keep away from moisture",
-      "Store upright"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.6,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 43,
-        "user": "Mrunal",
-        "rating": 5,
-        "title": "Premium handbag",
-        "comment": "Very useful and the burgundy shade looks rich.",
-        "date": "2026-09-20"
-      }
-    ],
-    "relatedProducts": [
-      42,
-      44,
-      45
-    ],
-    "isNew": true,
-    "isFeatured": true,
-    "isBestSeller": false
-  },
-  {
-    "id": 44,
-    "name": "Gold Frame Sunglasses",
-    "slug": "gold-frame-sunglasses",
-    "category": "footwear-accessories",
-    "subcategory": "sunglasses",
-    "price": 1099,
-    "originalPrice": 1399,
-    "discount": 21,
-    "rating": 4.3,
-    "reviewCount": 48,
-    "brand": "RK Collections",
-    "shortDescription": "Minimal gold-frame sunglasses designed for a refined contemporary look.",
-    "description": "These gold-frame sunglasses combine a lightweight frame, timeless styling and a refined silhouette suitable for everyday fashion and travel.",
-    "material": "Metal Alloy",
-    "fit": "Standard Fit",
-    "pattern": "Minimal",
-    "occasion": [
-      "Casual",
-      "Travel",
-      "Everyday"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Gold"
-    ],
-    "colorOptions": [
-      {
-        "name": "Gold",
-        "hex": "#C5A24A"
-      }
-    ],
-    "stock": 26,
-    "sku": "AAC-FAC-014",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Lightweight frame",
-      "Minimal luxury styling",
-      "Versatile gold finish",
-      "Great for everyday fashion"
-    ],
-    "specifications": {
-      "material": "Metal Alloy",
-      "pattern": "Minimal",
-      "lensType": "UV Protected",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Clean with microfiber cloth",
-      "Store in case",
-      "Avoid direct contact with abrasive surfaces"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.3,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 44,
-        "user": "Apoorva",
-        "rating": 4,
-        "title": "Stylish frame",
-        "comment": "Minimal and easy to pair with different looks.",
-        "date": "2026-09-07"
-      }
-    ],
-    "relatedProducts": [
-      40,
-      43,
-      45
-    ],
-    "isNew": false,
-    "isFeatured": false,
-    "isBestSeller": false
-  },
-  {
-    "id": 45,
-    "name": "Silk Embroidered Dupatta",
-    "slug": "silk-embroidered-dupatta",
-    "category": "footwear-accessories",
-    "subcategory": "dupattas",
-    "price": 1599,
-    "originalPrice": 1999,
-    "discount": 20,
-    "rating": 4.7,
-    "reviewCount": 72,
-    "brand": "RK Collections",
-    "shortDescription": "A premium silk dupatta with delicate embroidery for festive and traditional outfits.",
-    "description": "This rich silk dupatta adds an elegant finishing touch to sarees, Anarkalis, suits and festive outfits with its soft drape and refined embroidery.",
-    "material": "Silk Blend",
-    "fit": "Free Size",
-    "pattern": "Embroidered",
-    "occasion": [
-      "Festive",
-      "Wedding",
-      "Traditional"
-    ],
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Burgundy",
-      "Gold"
-    ],
-    "colorOptions": [
-      {
-        "name": "Burgundy",
-        "hex": "#64152B"
-      }
-    ],
-    "stock": 14,
-    "sku": "AAC-FAC-015",
-    "images": [
-      "DIRECT_IMAGE_URL_1",
-      "DIRECT_IMAGE_URL_2"
-    ],
-    "thumbnail": "DIRECT_IMAGE_URL_1",
-    "highlights": [
-      "Premium silk blend",
-      "Elegant embroidery",
-      "Soft festive drape",
-      "Versatile ethnic styling"
-    ],
-    "specifications": {
-      "fabric": "Silk Blend",
-      "pattern": "Embroidered",
-      "border": "Gold Embroidered Border",
-      "countryOfOrigin": "India"
-    },
-    "careInstructions": [
-      "Dry clean recommended",
-      "Store folded in muslin cloth",
-      "Avoid direct sunlight"
-    ],
-    "deliveryInfo": {
-      "freeDelivery": true,
-      "estimatedDelivery": "3-5 business days",
-      "returnable": true,
-      "returnWindow": "7 days"
-    },
-    "seller": {
-      "name": "RK Collections",
-      "rating": 4.7,
-      "verified": true
-    },
-    "reviews": [
-      {
-        "id": 45,
-        "user": "Asmita",
-        "rating": 5,
-        "title": "Lovely dupatta",
-        "comment": "Adds a beautiful finish to ethnic outfits.",
-        "date": "2026-09-22"
-      }
-    ],
-    "relatedProducts": [
-      38,
-      41,
-      42
-    ],
-    "isNew": true,
-    "isFeatured": true,
     "isBestSeller": false
   }
 ]

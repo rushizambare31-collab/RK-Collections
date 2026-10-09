@@ -110,9 +110,9 @@ export default function Contact() {
                     <div>
                       <h4 className="text-sm font-semibold text-dark mb-1">Visit Us</h4>
                       <p className="text-sm text-muted leading-relaxed">
-                        Flat no. B14, Neelkanth Residency,<br />
-                        Behind Negal Park, Shivaji Nagar,<br />
-                        Satpur, Nashik
+                        Room No.14, Satpur Bus Stand,<br />
+                        Near IndianOil Petrol Pump,Trambakeshwar Road,<br />
+                        Satpur, Nashik - 422007, Maharashtra, India
                       </p>
                     </div>
                   </div>
