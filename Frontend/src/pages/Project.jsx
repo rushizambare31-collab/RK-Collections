@@ -129,8 +129,8 @@ export default function Project() {
               </div>
               <div className="p-6 grid sm:grid-cols-2 gap-4">
                 {[
-                  { label: 'Student Name', value: ['Rushikesh Zambare'] },
-                  { label: 'Project Title', value: 'RK Collections - Womens Wear Collections' },
+                  { label: 'Student Name', value: ["Rubina Rajesh Yadav" , "Kalyani Sajendra Singh "] },
+                  { label: 'Project Title', value: "RK Collection's - Womens Wear Collections" },
                   { label: 'Course', value: 'B.Com (Third Year)' },
                   { label: 'College', value: 'BYK College' },
                   { label: 'Technology', value: 'React + JavaScript + Tailwind CSS' },

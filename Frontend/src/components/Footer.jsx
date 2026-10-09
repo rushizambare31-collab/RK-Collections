@@ -21,7 +21,7 @@ export default function Footer() {
             {/* Social */}
             <div className="flex items-center gap-3">
               <a
-                href="https://wa.me/917588617780"
+                href="https://wa.me/919819263483"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full border border-cream/20 flex items-center justify-center text-cream/60 hover:text-gold hover:border-gold transition-colors"
@@ -30,15 +30,14 @@ export default function Footer() {
                 <MessageCircle size={16} />
               </a>
               <a
-                href="mailto:rkcollections.info@gmail.com"
+                href="mailto:ramyadav80929@gmail.com"
                 className="w-9 h-9 rounded-full border border-cream/20 flex items-center justify-center text-cream/60 hover:text-gold hover:border-gold transition-colors"
                 aria-label="Email"
               >
                 <Mail size={16} />
               </a>
               <a
-                href="https://www.instagram.com/rk_collections_official"
-                target="_blank"
+                href="#"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full border border-cream/20 flex items-center justify-center text-cream/60 hover:text-gold hover:border-gold transition-colors"
                 aria-label="Instagram"
@@ -111,14 +110,14 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Phone size={15} className="text-gold mt-0.5 flex-shrink-0" />
                 <div>
-                  <a href="tel:7588617780" className="text-sm text-cream/70 hover:text-gold transition-colors block">7588617780</a>
-                  <a href="tel:9665577399" className="text-sm text-cream/70 hover:text-gold transition-colors block">96655 77399</a>
+                  <a href="tel:9819263483" className="text-sm text-cream/70 hover:text-gold transition-colors block">98192 63483</a>
+                  <a href="tel:9175940227" className="text-sm text-cream/70 hover:text-gold transition-colors block">91759 40227</a>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <MessageCircle size={15} className="text-gold mt-0.5 flex-shrink-0" />
                 <a
-                  href="https://wa.me/917588617780"
+                  href="https://wa.me/919819263483"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-cream/70 hover:text-gold transition-colors"
@@ -128,8 +127,8 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3">
                 <Mail size={15} className="text-gold mt-0.5 flex-shrink-0" />
-                <a href="mailto:rkcollections.info@gmail.com" className="text-sm text-cream/70 hover:text-gold transition-colors break-all">
-                  rkcollections.info@gmail.com
+                <a href="mailto:ramyadav80929@gmail.com" className="text-sm text-cream/70 hover:text-gold transition-colors break-all">
+                  ramyadav80929@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">

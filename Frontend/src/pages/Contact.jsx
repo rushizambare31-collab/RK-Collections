@@ -67,27 +67,27 @@ export default function Contact() {
         <div className="container-main">
           <RevealSection>
             <div className="grid md:grid-cols-3 gap-6 -mt-16 relative z-10">
-              <a href="tel:7588617780" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
+              <a href="tel:9819263483" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
                 <div className="w-14 h-14 rounded-full bg-burgundy/10 flex items-center justify-center mx-auto mb-4 group-hover:bg-burgundy transition-colors">
                   <Phone size={22} className="text-burgundy group-hover:text-white transition-colors" />
                 </div>
                 <h3 className="font-serif text-lg font-semibold text-dark mb-1">Call Now</h3>
-                <p className="text-sm text-muted">7588617780</p>
-                <p className="text-sm text-muted">96655 77399</p>
+                <p className="text-sm text-muted">9819263483</p>
+                <p className="text-sm text-muted">9175940227</p>
               </a>
-              <a href="https://wa.me/917588617780" target="_blank" rel="noopener noreferrer" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
+              <a href="https://wa.me/919819263483" target="_blank" rel="noopener noreferrer" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
                 <div className="w-14 h-14 rounded-full bg-success/10 flex items-center justify-center mx-auto mb-4 group-hover:bg-success transition-colors">
                   <MessageCircle size={22} className="text-success group-hover:text-white transition-colors" />
                 </div>
                 <h3 className="font-serif text-lg font-semibold text-dark mb-1">WhatsApp</h3>
                 <p className="text-sm text-muted">Chat with us instantly</p>
               </a>
-              <a href="mailto:rkcollections.info@gmail.com" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
+              <a href="mailto:ramyadav80929@gmail.com" className="group bg-white dark:bg-[#231F1B] rounded-xl border border-border/50 p-6 text-center hover:shadow-lg transition-all hover:-translate-y-1">
                 <div className="w-14 h-14 rounded-full bg-gold/10 flex items-center justify-center mx-auto mb-4 group-hover:bg-gold transition-colors">
                   <Mail size={22} className="text-gold group-hover:text-dark transition-colors" />
                 </div>
                 <h3 className="font-serif text-lg font-semibold text-dark mb-1">Email Us</h3>
-                <p className="text-sm text-muted break-all">rkcollections.info@gmail.com</p>
+                <p className="text-sm text-muted break-all">ramyadav80929@gmail.com</p>
               </a>
             </div>
           </RevealSection>
@@ -122,8 +122,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="text-sm font-semibold text-dark mb-1">Call Us</h4>
-                      <a href="tel:7588617780" className="text-sm text-muted hover:text-burgundy block">7588617780</a>
-                      <a href="tel:9665577399" className="text-sm text-muted hover:text-burgundy block">96655 77399</a>
+                      <a href="tel:9819263483" className="text-sm text-muted hover:text-burgundy block">9819263483</a>
+                      <a href="tel:9665577399" className="text-sm text-muted hover:text-burgundy block">9175940227</a>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -132,8 +132,8 @@ export default function Contact() {
                     </div>
                     <div className="flex flex-col">
                       <h4 className="text-sm font-semibold text-dark mb-1">Email</h4>
-                      <a href="mailto:rkcollections.info@gmail.com" className="text-sm text-muted hover:text-burgundy">rkcollections.info@gmail.com</a>
-                      <a href="mailto:rkcollections.info@gmail.com" className="text-sm text-muted hover:text-burgundy">rkcollections.support@gmail.com</a>
+                      <a href="mailto:ramyadav80929@gmail.com" className="text-sm text-muted hover:text-burgundy">ramyadav80929@gmail.com</a>
+                      <a href="mailto:ramyadav80929@gmail.com" className="text-sm text-muted hover:text-burgundy">ks9058476@gmail.com </a>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -231,7 +231,7 @@ export default function Contact() {
                 </p>
 
                 <a
-                  href="https://www.google.com/maps/search/Flat+no+B14+Neelkanth+Residency+Behind+Negal+Park+Shivaji+Nagar+Satpur+Nashik"
+                  href="https://www.google.com/maps/place/19%C2%B059'28.4%22N+73%C2%B043'57.5%22E/@19.9912246,73.7300607,824m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d19.9912246!4d73.7326356?hl=en&entry=ttu&g_ep=EgoyMDI2MTAwNi4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-6 py-2.5 bg-burgundy text-white rounded-lg text-sm font-medium hover:bg-maroon transition-colors"
