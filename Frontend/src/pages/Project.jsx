@@ -243,7 +243,7 @@ export default function Project() {
                 { cat: 'Routing', items: ['React Router v7'] },
                 { cat: 'Icons', items: ['Lucide React'] },
                 { cat: 'Charts', items: ['Recharts'] },
-                { cat: 'Data Source', items: ['database.json (60 products)'] },
+                { cat: 'Data Source', items: ['database.json (30 products)'] },
                 { cat: 'Browser APIs', items: ['Geolocation API', 'localStorage'] },
               ].map((tech, i) => (
                 <div key={i} className="bg-white dark:bg-[#231F1B] rounded-lg border border-border/50 p-4">

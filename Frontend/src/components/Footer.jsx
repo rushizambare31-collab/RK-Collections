@@ -134,9 +134,9 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={15} className="text-gold mt-0.5 flex-shrink-0" />
                 <p className="text-sm text-cream/70 leading-relaxed">
-                  Flat no. B14, Neelkanth Residency,
-                  Behind Negal Park, Shivaji Nagar,
-                  Satpur, Nashik
+                  Room No.14, Satpur Bus Stand,
+                  Near IndianOil Petrol Pump,Trambakeshwar Road,
+                  Satpur, Nashik - 422007, Maharashtra, India
                 </p>
               </li>
             </ul>
